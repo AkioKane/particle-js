@@ -51,11 +51,11 @@ particlesJS("particles", {
   interactivity: {
       detectsOn: "canvas",
       events: {
-          onHover: {
+          onhover: {
               enable: false,
               mode: "repulse"
           },
-          onClick: {
+          onclick: {
               enable: false,
               mode: "push"
           },
